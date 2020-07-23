@@ -127,6 +127,7 @@ sidebar_label: Movies and TV shows
 - [puretoons](https://puretoons.me/) - Animated Hindi movies.
 - [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
 - [reelgood](https://reelgood.com/) -Legal Multi Service provider for Netflix, Hulu & Co.
+- [toonclub](https://toonclub.in/) - Anime And Cartoons In Hindi.
 
 ### Streaming 1080p
 
